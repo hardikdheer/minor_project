@@ -12,7 +12,7 @@ function Footer() {
         </div>
         <hr />
         <h5>Copyrights &#169; | 2023. All Rights Reserved | </h5>
-        <div>Made with &#x2764; by Hardik Abhipraya Ayush and Gomsi </div>
+        <div>Made with &#x2764; by Harit Dwarikanath Harshdeep </div>
       </div>
   )
 }
